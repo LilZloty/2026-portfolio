@@ -1,0 +1,7 @@
+Domingo vibes—my Sunday ritual for diving into tech that could transform e-commerce visuals. This week, I tested a workflow to generate a precise rear-view image from a front-on reference, then convert it to 3D. Tools in play: Claude for crafting prompts, Gemini’s Nano Banana Pro for image generation, and Tencent Hunyuan 3D for the final model.
+
+Straight talk: I started with a stock image of a figure in camo gear—white balaclava, patterned jacket, red laser sight on a prop. Goal was an exact rear view, same pose, details locked in. Fed it to Claude for a tight prompt, iterated in Nano Banana Pro to fix texture misses, and exported a clean PNG. Plugged that into Hunyuan 3D—boom, usable GLB model in under 30 minutes.
+
+For Shopify stores in gear or apparel, this means AR previews without expensive shoots. Based on past optimizations, I’ve seen engagement jumps of 15-25% with interactive visuals. Seven years, 70+ stores—AI workflows like this keep things lean and effective.
+
+If you’re experimenting with product visuals, what tools are you using? Drop a comment or DM—I’m all about real results, no fluff. #AI #Ecommerce #Shopify #3DModeling #ImageGeneration

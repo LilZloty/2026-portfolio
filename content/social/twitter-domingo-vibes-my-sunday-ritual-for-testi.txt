@@ -1,0 +1,1 @@
+Spent my Sunday—aka "Domingo"—testing tech for e-commerce visuals. Chained Claude, Gemini Nano Banana Pro, and Tencent Hunyuan 3D to turn a front-view image into a rear-view 3D model in under 30 mins. Could boost time-on-site by 15-25% for Shopify stores. Thoughts? #Shopify
