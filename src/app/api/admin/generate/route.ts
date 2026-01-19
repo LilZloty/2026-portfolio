@@ -147,6 +147,10 @@ CRITICAL:
 - Sound like an expert sharing YOUR knowledge
 - Answer every sub-question users might have
 - No emojis, straight quotes only
+- OUTPUT ONLY THE FINAL CONTENT - no introductions like "Hey Theo" or "Here's the draft"
+- NO meta-commentary like "Notes for You" or "What do you think?"
+- NO mentions of drafts, revisions, or asking for feedback
+- The output should be PUBLICATION-READY, not a draft for review
 `;
 
 const LINKEDIN_PROMPT = `You're Theo Daudebourg, a Shopify performance specialist. Write a SHORT LinkedIn post.
@@ -184,6 +188,9 @@ const LINKEDIN_PROMPT = `You're Theo Daudebourg, a Shopify performance specialis
 - End with simple question
 
 OUTPUT: Just the post text, ready to paste. Under 1200 characters.
+- NO introductions like "Hey" or "Here's the post"
+- NO meta-commentary or notes sections
+- PUBLICATION-READY content only
 `;
 
 const TWITTER_PROMPT = `You're Theo Daudebourg, a Shopify performance specialist. Write a single tweet.
@@ -200,6 +207,8 @@ const TWITTER_PROMPT = `You're Theo Daudebourg, a Shopify performance specialist
 - No hashtag spam (one max)
 
 OUTPUT: Just the tweet text.
+- NO introductions or meta-commentary
+- PUBLICATION-READY content only
 `;
 
 function ensureMdxFormat(content: string, topic: string, date: string): string {
